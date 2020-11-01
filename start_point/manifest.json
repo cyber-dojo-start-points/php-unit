@@ -1,6 +1,6 @@
 {
   "display_name": "PHP, PHPUnit",
-  "image_name": "cyberdojofoundation/php_unit:66047e2",
+  "image_name": "cyberdojofoundation/php_unit:53f770d",
   "visible_filenames": [
     "HikerTest.php",
     "Hiker.php",
