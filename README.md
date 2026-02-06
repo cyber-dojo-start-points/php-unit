@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/php-unit.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/php-unit)
-
-### display_name="PHP, PHPUnit"
-### image_name="[cyberdojofoundation/php_unit](https://hub.docker.com/repository/docker/cyberdojofoundation/php_unit)"
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/php-unit/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/php-unit/actions)
+  
+### display_name="PHP 8.4.17, PHPUnit 13"
+### image_name="[ghcr.io/cyber-dojo-languages/php_unit](https://ghcr.io/cyber-dojo-languages/php_unit)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

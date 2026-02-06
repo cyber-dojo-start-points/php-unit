@@ -1,6 +1,6 @@
 {
-  "display_name": "PHP, PHPUnit",
-  "image_name": "cyberdojofoundation/php_unit:3ad3259",
+  "display_name": "PHP 8.4.17, PHPUnit 13",
+  "image_name": "ghcr.io/cyber-dojo-languages/php_unit:6284e5a",
   "visible_filenames": [
     "HikerTest.php",
     "Hiker.php",

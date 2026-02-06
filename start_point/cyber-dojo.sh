@@ -1,1 +1,1 @@
-phpunit --do-not-cache-result --verbose .
+phpunit --do-not-cache-result .
