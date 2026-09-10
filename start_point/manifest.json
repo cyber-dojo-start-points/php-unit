@@ -1,14 +1,14 @@
 {
-  "display_name": "PHP 8.4.17, PHPUnit 13",
+  "display_name": "PHP 8.5, PHPUnit 13",
   "language": [
     "PHP",
-    "8.4.17"
+    "8.5"
   ],
   "test_framework": [
     "PHPUnit",
     "13"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/php_unit:1572234",
+  "image_name": "ghcr.io/cyber-dojo-languages/php_unit:9dd91f6",
   "visible_filenames": [
     "HikerTest.php",
     "Hiker.php",
