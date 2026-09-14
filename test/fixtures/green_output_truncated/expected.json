@@ -1,0 +1,9 @@
+{
+  "truncated": true,
+  "matches": [ "^debug: answer was called, i is 1$" ],
+  "match_counts": {
+    "^debug: answer was called, i is 0$": 1,
+    "^OK, but there were issues!$": 0,
+    "^Tests: ": 0
+  }
+}

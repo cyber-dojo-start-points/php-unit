@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^An error occurred inside PHPUnit\\.$": 1,
+    "^Message: +syntax error, unexpected identifier \"sd\", expecting \"\\)\"$": 1,
+    "^Location: .*/HikerTest\\.php:[0-9]+$": 1,
+    "^Tests: ": 0,
+    "^OK": 0
+  }
+}

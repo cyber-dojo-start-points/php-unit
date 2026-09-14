@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^E +1 / 1 \\(100%\\)$": 1,
+    "^There was 1 error:$": 1,
+    "^Error: Call to undefined function sevn\\(\\)$": 1,
+    "^ERRORS!$": 1,
+    "^Tests: 1, Assertions: 0, Errors: 1,": 1,
+    "^Failed asserting": 0
+  }
+}

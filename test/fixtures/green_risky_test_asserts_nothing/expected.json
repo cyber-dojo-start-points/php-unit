@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 30,
+  "truncated": false,
+  "match_counts": {
+    "^R +1 / 1 \\(100%\\)$": 1,
+    "^There was 1 risky test:$": 1,
+    "^This test did not perform any assertions$": 1,
+    "^OK, but there were issues!$": 1,
+    "^Tests: 1, Assertions: 0,": 1,
+    ", Risky: 1\\.$": 1
+  }
+}

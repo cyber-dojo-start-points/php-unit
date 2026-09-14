@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^EE +2 / 2 \\(100%\\)$": 1,
+    "^There were 2 errors:$": 1,
+    "^DivisionByZeroError: Division by zero$": 2,
+    "^ERRORS!$": 1,
+    "^Tests: 2, Assertions: 0, Errors: 2,": 1,
+    "^OK": 0
+  }
+}

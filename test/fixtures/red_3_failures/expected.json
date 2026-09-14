@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^FFF +3 / 3 \\(100%\\)$": 1,
+    "^There were 3 failures:$": 1,
+    "^Failed asserting that ": 3,
+    "^FAILURES!$": 1,
+    "^Tests: 3, Assertions: 3, Failures: 3,": 1,
+    "^ERRORS!$": 0
+  }
+}

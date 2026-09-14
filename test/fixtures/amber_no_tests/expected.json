@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^There was 1 PHPUnit test runner warning:$": 1,
+    "^1\\) No tests found in class \"HikerTest\"\\.$": 1,
+    "^No tests executed!$": 1,
+    "^Tests: ": 0,
+    "^OK": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 20,
+  "truncated": false,
+  "match_counts": {
+    "^I +1 / 1 \\(100%\\)$": 1,
+    "^OK, but there were issues!$": 1,
+    "^Tests: 1, Assertions: 0,": 1,
+    ", Incomplete: 1\\.$": 1,
+    "^Failed asserting": 0
+  }
+}

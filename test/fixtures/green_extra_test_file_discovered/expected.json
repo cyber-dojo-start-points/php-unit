@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^\\.\\. +2 / 2 \\(100%\\)$": 1,
+    "^OK, but there were issues!$": 1,
+    "^Tests: 2, Assertions: 2,": 1,
+    "^Failed asserting": 0
+  }
+}

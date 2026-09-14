@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^\\. +1 / 1 \\(100%\\)$": 1,
+    "^OK, but there were issues!$": 1,
+    "^Tests: 1, Assertions: 1,": 1,
+    "Checksum\\.php": 0,
+    "syntax error": 0
+  }
+}

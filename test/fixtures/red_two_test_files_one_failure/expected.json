@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^\\.F\\.\\. +4 / 4 \\(100%\\)$": 1,
+    "^1\\) AnswerSizeTest::testAnswer_has_three_digits$": 1,
+    "^Failed asserting that 2 matches expected 3\\.$": 1,
+    "^FAILURES!$": 1,
+    "^Tests: 4, Assertions: 4, Failures: 1,": 1
+  }
+}
