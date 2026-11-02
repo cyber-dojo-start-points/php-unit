@@ -1,14 +1,14 @@
 {
-  "display_name": "PHP 8.5.12, PHPUnit 13.4.3",
+  "display_name": "PHP 8.5.12, PHPUnit 13.4.6",
   "language": [
     "PHP",
     "8.5.12"
   ],
   "test_framework": [
     "PHPUnit",
-    "13.4.3"
+    "13.4.6"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/php_unit:c207b01@sha256:028c001862873c04454ebcd98841c37a5b4e4f925c542041c2f6582f22e1bc25",
+  "image_name": "ghcr.io/cyber-dojo-languages/php_unit:c207b01@sha256:f8f328f29bc09745925e2bbf49b5c27d34cd943695607ebeb242ff0a20bdd637",
   "visible_filenames": [
     "HikerTest.php",
     "Hiker.php",
